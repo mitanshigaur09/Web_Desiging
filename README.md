@@ -1,2 +1,2 @@
 # Web_Desiging
-This repository contains the important data for the web designing projects.
+This repository contains the all projects that I have designed in Allin Info-Systems.
